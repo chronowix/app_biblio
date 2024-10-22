@@ -1,0 +1,16 @@
+{
+	"dependencies": {
+		"@nestjs/jwt": "^10.2.0",
+		"@nestjs/passport": "^10.0.3",
+		"@nestjs/typeorm": "^10.0.2",
+		"bcryptjs": "^2.4.3",
+		"passport": "^0.7.0",
+		"passport-jwt": "^4.0.1",
+		"sqlite3": "^5.1.7",
+		"typeorm": "^0.3.20"
+	},
+	"devDependencies": {
+		"@types/bcryptjs": "^2.4.6",
+		"@types/passport-jwt": "^4.0.1"
+	}
+}
