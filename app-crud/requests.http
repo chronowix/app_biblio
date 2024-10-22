@@ -1,0 +1,20 @@
+### SIGNUP
+
+POST http://localhost:3000/auth/register
+Content-Type: application/json
+
+{
+  "username": "user",
+  "password": "test"
+}
+
+### LOGIN
+
+
+POST http://localhost:3000/auth/login
+Content-Type: application/json
+
+{
+  "username": "user",
+  "password": "test"
+}
